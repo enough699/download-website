@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "smplay",
+    "public": "public",
+    "rewrites": [
+
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+ 
+}
